@@ -1,12 +1,11 @@
-# React + Vite
+🌤️ SkyMod
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkyMod is a modern, responsive weather application built with React that delivers real-time weather updates with an intuitive user experience. Leveraging the OpenWeather API, the app provides accurate details such as temperature, humidity, wind speed, and weather conditions for any city worldwide.
 
-Currently, two official plugins are available:
+A key highlight of SkyMod is its dynamic background system — the interface adapts in real-time with animated images and videos that change according to the current weather (Clear, Clouds, Rain, Snow, Thunderstorm, etc.) and time of day (Day/Night). This creates an engaging, visually appealing experience that makes weather tracking more interactive than ever.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+With its clean UI, efficient state management, and seamless API integration, SkyMod demonstrates strong frontend development practices. The app is designed to be both functional and aesthetic, making weather monitoring simple yet visually immersive.
 
-## Expanding the ESLint configuration
+Status: The project is currently under development, with continuous improvements planned for design enhancements and extended features like multi-day forecasts and geolocation-based weather detection.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Live Link: http://skymood-weather.netlify.app/
